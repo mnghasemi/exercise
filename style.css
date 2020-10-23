@@ -23,7 +23,7 @@ body {
 }
 
 .module {
-    background-image: url(image/twocolor.jpg);
+    background-image: url(twocolor.jpg);
     background-size: cover;
     color: white;
     padding: 2rem;
